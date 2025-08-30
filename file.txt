@@ -1,0 +1,110 @@
+.py
+10 Taking User Input in Python _ Python Tutorial - Day _10(720P_HD).mp4
+100 Conclusion and Where to go from here _ Python Tutorial - Day _100(720P_HD).mp4
+11 Strings in Python _ Python Tutorial - Day _11(720P_HD).mp4
+12 Strings Slicing and Operations on Strings in Python _ Python Tutorial - Day _12(720P_HD).mp4
+13 String Methods in Python _ Python Tutorial - Day _13(720P_HD).mp4
+14 If Else Conditional Statements in Python _ Python Tutorial - Day _14(720P_HD).mp4
+15 Exercise 2_ Good Morning Sir _ Python Tutorial - Day _15(720P_HD).mp4
+16 Match Case Statements in Python _ Python Tutorial - Day _16(720P_HD).mp4
+17 For Loops in Python _ Python Tutorial - Day _17(720P_HD).mp4
+18 While Loops in Python _ Python Tutorial - Day _18(720P_HD).mp4
+19 break and continue in Python _ Python Tutorial - Day _19(720P_HD).mp4
+2 Some Amazing Python Programs - The Power of Python _ Python Tutorial - Day _2(720P_HD).mp4
+20 Functions in Python _ Python Tutorial - Day _20(720P_HD).mp4
+21 Function Arguments in Python _ Python Tutorial - Day _21(720P_HD).mp4
+22 Introduction to Lists in Python _ Python Tutorial - Day _22(720P_HD).mp4
+23 List Methods in Python _ Python Tutorial - Day _23(720P_HD).mp4
+24 Tuples in Python _ Python Tutorial - Day _24(720P_HD).mp4
+25 Operations on Tuples in Python _ Python Tutorial - Day _25(720P_HD).mp4
+26 Exercise 2_ Solution _ Shoutouts _ Python Tutorial - Day _26(720P_HD).mp4
+27 Exercise 3_ Kaun Banega Crorepati (KBC) _ Python Tutorial - Day _27(720P_HD).mp4
+28 f-strings in Python _ Python Tutorial - Day _28(720P_HD).mp4
+29 Docstrings in Python _ Python Tutorial - Day _29(720P_HD).mp4
+3 Modules and Pip _ Python Tutorial - Day _3(720P_HD).mp4
+30 Recursion in Python _ Python Tutorial - Day _30(720P_HD).mp4
+31 Sets in Python _ Python Tutorial - Day _31(720P_HD).mp4
+32 Set Methods in Python _ Python Tutorial - Day _32(720P_HD).mp4
+33 Dictionaries in Python _ Python Tutorial - Day _33(720P_HD).mp4
+34 Dictionary Methods in Python _ Python Tutorial - Day _34(720P_HD).mp4
+35 for Loop with else in Python _ Python Tutorial - Day _35(720P_HD).mp4
+36 Exception Handling in Python _ Python Tutorial - Day _36(720P_HD).mp4
+37 Finally keyword in Python _ Python Tutorial - Day _37(720P_HD).mp4
+38 Raising custom errors in Python _ Python Tutorial - Day _38(720P_HD).mp4
+39 Kaun Banega Crorepati_ Exercise 3 - Solution _ Shoutouts _ Python Tutorial - Day _39(720P_HD).mp4
+4 Our First Python Program _ Python Tutorial - Day _4(720P_HD).mp4
+40 Exercise 4_ Secret Code Language _ Python Tutorial - Day _40(720P_HD).mp4
+41 Short hand if else statements _ Python Tutorial - Day _41(720P_HD).mp4
+42 Enumerate Function in Python _ Python Tutorial - Day _42(720P_HD).mp4
+43 Virtual Environment in Python _ Python Tutorial - Day _43(720P_HD).mp4
+44 How import works in Python _ Python Tutorial - Day _44(720P_HD).mp4
+45 if __name__ __ ___main___ in Python _ Python Tutorial - Day _45(720P_HD).mp4
+46 os Module in Python _ Python Tutorial - Day _46(720P_HD).mp4
+47 Exercise 4_ Solutions and Shoutouts _ Python Tutorial - Day _47(720P_HD).mp4
+48 Local vs Global Variables in Python_ Python Tutorial - Day _48(720P_HD).mp4
+49 File IO in Python _ Python Tutorial - Day _49(720P_HD).mp4
+5 Comments_ Escape Sequences _ Print Statement _ Python Tutorial - Day _5(720P_HD).mp4
+50 read()_ readlines() and other methods _ Python Tutorial - Day _50(720P_HD).mp4
+51 seek()_ tell() and other functions _ Python Tutorial - Day _51(720P_HD).mp4
+52 Lambda functions in Python _ Python Tutorial - Day _52(720P_HD).mp4
+53 Map_ Filter and Reduce in Python _ Python Tutorial - Day _53(720P_HD).mp4
+54 _is_ vs ____ in Python _ Python Tutorial - Day _54(720P_HD).mp4
+55 Exercise 5 - Snake Water Gun _ Python Tutorial - Day _55(720P_HD).mp4
+56 Introduction to OOPs in Python _ Python Tutorial - Day _56(720P_HD).mp4
+57 Classes and Objects in Python _ Python Tutorial - Day _57(720P_HD).mp4
+58 Constructors in Python _ Python Tutorial - Day _58(720P_HD).mp4
+59 Decorators in Python _ Python Tutorial - Day _59(720P_HD).mp4
+6 Variables and Data Types _ Python Tutorial - Day _6(720P_HD).mp4
+60 Getters and Setters in Python _ Python Tutorial - Day _60(720P_HD).mp4
+61 Inheritance in Python _ Python Tutorial - Day _61(720P_HD).mp4
+62 Access Modifiers in Python _ Python Tutorial - Day _62(720P_HD).mp4
+63 Snake Water Gun Game in Python - Exercise 5 - Solution _ Python Tutorial - Day _63(720P_HD).mp4
+64 Exercise 6 - Library Management System in Python _ Python Tutorial - Day _64(720P_HD).mp4
+65 Static Methods in Python _ Python Tutorial - Day _65(720P_HD).mp4
+66 Instance variables vs Class variables in Python _ Python Tutorial - Day _66(720P_HD).mp4
+67 Exercise 6 Solution - Library Management Software in Python _ Python Tutorial - Day _67(720P_HD).mp4
+68 Exercise 7 - Clear the Clutter _ Python Tutorial - Day _68(720P_HD).mp4
+69 Class Methods in Python _ Python Tutorial - Day _69(720P_HD).mp4
+7 Exercise 1_ Calculator using Python _ Python Tutorial - Day _7(720P_HD).mp4
+70 Class Methods as Alternative Constructors in Python _ Python Tutorial - Day _70(720P_HD).mp4
+71 dir_ __dict__ and help method in Python _ Python Tutorial - Day _71(720P_HD).mp4
+72 super keyword in Python _ Python Tutorial - Day _72(720P_HD).mp4
+73 Magic_Dunder Methods in Python _ Python Tutorial - Day _73(720P_HD).mp4
+74 Method Overriding in Python _ Python Tutorial - Day _74(720P_HD).mp4
+75 Exercise 7 Solution   Shoutouts _ Python Tutorial - Day _75(720P_HD).mp4
+76 Exercise 8 - Merge the PDF _ Python Tutorial - Day _76(720P_HD).mp4
+77 Operator Overloading in Python _ Python Tutorial - Day _77(720P_HD).mp4
+78 Single Inheritance in Python _ Python Tutorial - Day _78(720P_HD).mp4
+79 Multiple Inheritance in Python _ Python Tutorial - Day _79(720P_HD).mp4
+8 Exercise 1_ Calculator using Python (Solution) _ Python Tutorial - Day _8(720P_HD).mp4
+80 Multilevel Inheritance in Python _ Python Tutorial - Day _80(720P_HD).mp4
+81 Hybrid and Hierarchical Inheritance in Python _ Python Tutorial - Day _81(720P_HD).mp4
+82 Exercise 8 - Merge the Pdf Solution in Python _ Python Tutorial - Day _82(720P_HD).mp4
+83 Exercise 9 - Shoutouts to Everyone _ Python Tutorial - Day _83(720P_HD).mp4
+84 Time Module in Python _ Python Tutorial - Day _84(720P_HD).mp4
+85 Creating command line utility in python _ Python Tutorial - Day _85(720P_HD).mp4
+86 Walrus Operator in Python _ Python Tutorial - Day _86(720P_HD).mp4
+87 Shutil Module in Python _ Python Tutorial - Day _87(720P_HD).mp4
+88 Exercise 9_ Solution - Shoutouts to Everyone _ Python Tutorial - Day _88(720P_HD).mp4
+89 Requests Module in Python _ Python Tutorial - Day _89(720P_HD).mp4
+9 Typecasting in Python _ Python Tutorial - Day _9(720P_HD).mp4
+90 Exercise 10_ News App in Python _ Python Tutorial - Day _90(720P_HD).mp4
+91 Generators in Python _ Python Tutorial - Day _91(720P_HD).mp4
+92 Function Caching in Python _ Python Tutorial - Day _92(720P_HD).mp4
+93 Exercise 10 - News App Solution _ Shoutout _ Python Tutorial - Day _93(720P_HD).mp4
+94 Exercise 11 - Drink Water Reminder _ Python Tutorial - Day _94(720P_HD).mp4
+95 Regular Expressions in Python _ Python Tutorial - Day _95(720P_HD).mp4
+96 AsyncIO in Python _ Python Tutorial - Day _96(720P_HD).mp4
+97 Multithreading in Python _ Python Tutorial - Day _97(720P_HD).mp4
+98 MultiProcessing in Python _ Python Tutorial - Day _98(720P_HD).mp4
+99 Exercise 11_ Solution   Shoutouts - Desktop Notification System _ Python Tutorial - Day _99(720P_HD).mp4
+Advanced Pandas for Data Science _ Analysis _ Pandas in PythonSeries _ Sagar Chouksey _ Part-2(720P_HD).mp4
+file.txt
+Introduction to Programming _ Python _ Python Tutorial - Day _1(720P_HD).mp4
+Numpy for Data Science _ Full Course _ Sagar Chouksey(1080P_60FPS).mp4
+Numpy Tutorial in Hindi(720P_HD).mp4
+outfile
+Pandas for Data Analysis In Python _ Sagar Chouksey _ Part-1(720P_HD).mp4
+remove.py
+SQL - Complete Course in 3 Hours _ SQL One Shot using MySQL(1080P_HD).mp4
+U _ I - AKHIL (Official Video) _ Karan _ Jay B _ Gurinder Bawa _ Khushi _ Latest Punjabi Songs 2025(1080P_HD).mp4
